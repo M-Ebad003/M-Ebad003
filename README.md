@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ebad</h1>
 <!-- <h3 align="center">Welcome to my GitHub profile! I'm currently in learning the MERN (MongoDB, Express.js, React.js, Node.js). Here's a glimpse into what you'll find here:</h3> -->
 
-- 🌱 I’m currently immersed in learning **MERN (MongoDB, Express.js, React.js, Node.js) stack development.**
+- 🌱 I’m immersed in learning **MERN (MongoDB, Express.js, React.js, Node.js) stack development.**
 
-- 💬 I'm passionate about web development and building scalable applications.
+- 💬 Passionate about full stack web development and building scalable applications.
 - 💼 Currently diving deep into the MERN stack and exploring its endless possibilities.
 - 🎓 Actively seeking new learning opportunities and challenges to grow as a developer.**
 
