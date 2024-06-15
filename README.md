@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ebad</h1>
 <!-- <h3 align="center">Welcome to my GitHub profile! I'm currently in learning the MERN (MongoDB, Express.js, React.js, Node.js). Here's a glimpse into what you'll find here:</h3> -->
 
 - 🌱 I’m immersed in learning **MERN (MongoDB, Express.js, React.js, Node.js) stack development.**
