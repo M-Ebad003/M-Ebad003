@@ -4,7 +4,7 @@
 
 - 💬 Passionate about full stack web development and building scalable applications.
 - 💼 Currently diving deep into the MERNN stack and exploring its endless possibilities.
-- 🎓 Actively seeking new learning opportunities and challenges to grow as a developer.**
+- 🎓 Actively seeking new learning opportunities and challenges to grow as a developer.
 
 - 📫 How to reach me **Reach me via email at [ebadmuhammad003@gmail.com]
 
