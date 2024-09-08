@@ -6,7 +6,7 @@
 - 💼 Currently diving deep into the MERNN stack and exploring its endless possibilities.
 - 🎓 Actively seeking new learning opportunities and challenges to grow as a developer.
 
-- 📫 How to reach me **Reach me via email at [ebadmuhammad003@gmail.com]
+- 📫 How to reach me **Reach me via email at [ebadmuhammad003@gmail.com] **
 
 
 
@@ -15,8 +15,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-ebad003&show_icons=true&locale=en" alt="m-ebad003" /></p>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
