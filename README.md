@@ -4,11 +4,7 @@
 
 🏗️ Experienced in developing multi-tenant front-end,dashboards, landing pages and websites, optimized for performance, scalability, and easy customization.
 
-🎨 Passionate about crafting clean UI/UX, reusable components, and scalable front-end architectures.
-
 🛠️ Recently transitioned into a Backend Developer role, expanding my expertise with Node.js, Express.js, and Postgresql, strengthening my full-stack skillset.
-
-🚀 Always learning and exploring new technologies to build reliable, production-ready applications.
 
 🤝 Open to collaboration, problem-solving, and meaningful projects that push my skills forward.
 
