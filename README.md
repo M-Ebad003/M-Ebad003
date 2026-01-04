@@ -1,12 +1,12 @@
 <!-- <h3 align="center">Welcome to my GitHub profile! I'm currently in learning the MERN (MongoDB, Express.js, React.js, Node.js). Here's a glimpse into what you'll find here:</h3> -->
 
-💻 Frontend-Focused Full Stack Developer with 2 years of experience, specializing in building fast, modern, and user-friendly interfaces using React.js and Next.js.
+💻 Frontend-focused full-stack developer with 2 years of surviving production bugs building fast, clean, and user-friendly web apps using React.js and Next.js.
 
-🏗️ Experienced in developing multi-tenant front-end,dashboards, landing pages and websites, optimized for performance, scalability, and easy customization.
+🏗️ I’ve worked on dashboards, multi-tenant frontends, landing pages, and scalable web apps, focusing on performance, structure, and keeping things maintainable (for future-me).
 
-🛠️ Recently transitioned into a Backend Developer role, expanding my expertise with Node.js, Express.js, and Postgresql, strengthening my full-stack skillset.
+🛠️ Currently leveling up my backend skills with Node.js, Express.js, and PostgreSQL, learning how to make APIs as reliable as the UI looks.
 
-🤝 Open to collaboration, problem-solving, and meaningful projects that push my skills forward.
+🎮 Not coding? You’ll find me gaming, jamming to Radiohead, or tweaking stuff that’s already fine.
 
 
 <!-- <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p> -->
