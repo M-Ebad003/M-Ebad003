@@ -1,6 +1,6 @@
 <!-- <h3 align="center">Welcome to my GitHub profile! I'm currently in learning the MERN (MongoDB, Express.js, React.js, Node.js). Here's a glimpse into what you'll find here:</h3> -->
 
-💻 Frontend-focused full-stack developer with 2 years of surviving production bugs building fast, clean, and user-friendly web apps using React.js and Next.js.
+💻 Frontend-focused full-stack developer with 3 years of surviving production bugs building fast, clean, and user-friendly web apps using React.js and Next.js.
 
 🏗️ I’ve worked on dashboards, multi-tenant frontends, landing pages, and scalable web apps, focusing on performance, structure, and keeping things maintainable (for future-me).
 
