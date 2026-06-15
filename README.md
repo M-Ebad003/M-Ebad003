@@ -53,7 +53,7 @@
 | Project | What It Is | Live |
 |---------|-----------|------|
 | 🏋️ **Rollpay** | Multi-tenant gym management SaaS — check-ins, memberships, 50+ gyms live | Private |
-| 📅 **The Meeting Book** | Professional meeting & scheduling platform | [themeetingbook.org](https://themeetingbook.org) |
+| 📖 **The Meeting Book** | Author landing page for a professional book | [themeetingbook.org](https://themeetingbook.org) |
 | 🐾 **Pet Social** | Social platform for pet owners | [petsocial.ar](https://petsocial.ar) |
 | 🏠 **Criterion** | Real estate web application | [criterion-dun.vercel.app](https://criterion-dun.vercel.app/) |
 
