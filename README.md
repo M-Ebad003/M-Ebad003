@@ -1,12 +1,12 @@
-<div align="center">
+<!-- <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Ebad+%F0%9F%91%8B;Full+Stack+Dev+%E2%80%94+React+%26+Next.js;Figma+%E2%86%92+Code+%7C+SaaS+%7C+Clean+UIs;4%2B+years+of+surviving+production+bugs+%F0%9F%90%9B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Ebad+%F0%9F%91%8B;Full+Stack+Dev+%E2%80%94+React+%26+Next.js;Figma+%E2%86%92+Code+%7C+SaaS+%7C+Clean+UIs;2%2B+years+of+surviving+production+bugs+%F0%9F%90%9B" alt="Typing SVG" />
 
-</div>
+</div> -->
 
 ---
 
-💻 Full Stack Developer with 2+ years of turning complex requirements into products that look great in demos and hold up in production. I close the gap between design intent and engineering reality — so neither side has to compromise.
+💻 Full Stack Developer with 2+ years of turning complex requirements into products that look great in demos and hold up in production. I close the gap between design intent and engineering reality, so neither side has to compromise.
 
 - 🚀 Built **Rollpay** end-to-end — a multi-tenant gym SaaS live across **50+ gyms**, replacing manual ops chaos with a system that actually scales
 - 🤖 Designed and shipped **AI chatbots & assistants** powered by **AWS Bedrock** — integrated natively into Rollpay as an AI agent to automate member interactions and reduce manual workload for gym operators
