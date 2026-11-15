@@ -6,7 +6,7 @@
 
 ---
 
-💻 Full Stack Developer with 2+ years of turning complex requirements into products that look great in demos and hold up in production. I close the gap between design intent and engineering reality, so neither side has to compromise.
+💻 Full Stack Developer with 3+ years of turning complex requirements into products that look great in demos and hold up in production. I close the gap between design intent and engineering reality, so neither side has to compromise.
 
 - 🚀 Built **Rollpay** end-to-end — a multi-tenant gym SaaS live across **50+ gyms**, replacing manual ops chaos with a system that actually scales
 - 🤖 Designed and shipped **AI chatbots & assistants** powered by **AWS Bedrock** — integrated natively into Rollpay as an AI agent to automate member interactions and reduce manual workload for gym operators
