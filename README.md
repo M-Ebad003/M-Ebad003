@@ -1,22 +1,16 @@
-<!-- <div align="center">
+## About
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Ebad+%F0%9F%91%8B;Full+Stack+Dev+%E2%80%94+React+%26+Next.js;Figma+%E2%86%92+Code+%7C+SaaS+%7C+Clean+UIs;2%2B+years+of+surviving+production+bugs+%F0%9F%90%9B" alt="Typing SVG" />
+Full Stack Developer with 3+ years of experience building SaaS products, from design handoff through to production. I work across the stack, and I care about UIs that match their designs and backends that hold up as a product grows.
 
-</div> -->
-
----
-
-💻 Full Stack Developer with 3+ years of turning complex requirements into products that look great in demos and hold up in production. I close the gap between design intent and engineering reality, so neither side has to compromise.
-
-- 🚀 Built **Rollpay** end-to-end — a multi-tenant gym SaaS live across **50+ gyms**, replacing manual ops chaos with a system that actually scales
-- 🤖 Designed and shipped **AI chatbots & assistants** powered by **AWS Bedrock** — integrated natively into Rollpay as an AI agent to automate member interactions and reduce manual workload for gym operators
-- 🎨 Pixel-perfect isn't a buzzword here — I convert Figma to production UI your designers will recognize on first look
-- 🛠️ Backend built to last, not just to ship — Node.js, complex **PostgreSQL** queries, database schema design, query optimization, and clean API architecture with zero shortcuts
-- 🎮 Off the keyboard? Gaming, Radiohead, or tweaking stuff that didn't need tweaking
+- Built **Rollpay** end-to-end, a multi-tenant gym management SaaS used by **100+ gyms**, replacing manual operations with a system that scales
+- Designed and shipped **AI chatbots and assistants** on **AWS Bedrock**, integrated into Rollpay as an AI agent that handles member interactions and reduces manual work for gym operators
+- Built Rollpay's **notification system on AWS** (**SQS**, **EventBridge**, **SES**) with Twilio for SMS, delivering **50K+ notifications**
+- Build backends with Node.js and **PostgreSQL**: schema design, complex queries, query optimization, and clean API architecture
+- Outside of work: gaming, Radiohead, and tinkering with things that didn't need tweaking
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -48,34 +42,32 @@
 
 ---
 
-## 📌 Featured Work
+## Featured Work
 
-| Project | What It Is | Live |
-|---------|-----------|------|
-| 🏋️ **Rollpay** | Multi-tenant gym management SaaS — check-ins, memberships, 50+ gyms live | Private |
-| 📖 **The Meeting Book** | Author landing page for a professional book | [themeetingbook.org](https://themeetingbook.org) |
-| 🐾 **Pet Social** | Social platform for pet owners | [petsocial.ar](https://petsocial.ar) |
-| 🏠 **Criterion** | Real estate web application | [criterion-dun.vercel.app](https://criterion-dun.vercel.app/) |
+| Project | Description | Live |
+|---------|-------------|------|
+| **Rollpay** | Multi-tenant gym management SaaS covering check-ins and memberships, live across 100+ gyms | Private |
+| **The Meeting Book** | Author landing page for a professional book | [themeetingbook.org](https://themeetingbook.org) |
+| **Pet Social** | Social platform for pet owners | [petsocial.ar](https://petsocial.ar) |
+| **Criterion** | Real estate web application | [criterion-dun.vercel.app](https://criterion-dun.vercel.app/) |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-ebad003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" alt="GitHub Stats" />
-  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-ebad003&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <i>💬 "Think hiring a professional is too costly? Wait until you see what an amateur costs you."</i>
+  <i>"Think hiring a professional is too costly? Wait until you see what an amateur costs you."</i>
 </div>
 
 ---
 
-## 📬 Let's Connect
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ebad-39a944285/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/m-ebad)
@@ -83,5 +75,5 @@
 ---
 
 <div align="center">
-  <sub>Open to full-stack roles — feel free to reach out!</sub>
+  <sub>Open to full-stack roles. Feel free to reach out.</sub>
 </div>
