@@ -1,6 +1,6 @@
 ## About
 
-Full Stack Developer with 3+ years of experience building SaaS products, from design handoff through to production. I work across the stack, and I care about UIs that match their designs and backends that hold up as a product grows.
+Full Stack Developer with 3+ years of experience building SaaS products, from design handoff through to production. 
 
 - Built **Rollpay** end-to-end, a multi-tenant gym management SaaS used by **100+ gyms**, replacing manual operations with a system that scales
 - Designed and shipped **AI chatbots and assistants** on **AWS Bedrock**, integrated into Rollpay as an AI agent that handles member interactions and reduces manual work for gym operators
